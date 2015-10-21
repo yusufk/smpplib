@@ -1,0 +1,1 @@
+An attempt to revive the Python SMPP library project formaly hosted here: http://mjoc.sig.lt/projects/smpplib/
